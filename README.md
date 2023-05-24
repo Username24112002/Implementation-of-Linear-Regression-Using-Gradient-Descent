@@ -96,14 +96,17 @@ print("For population = 70,000,we predict a profit of $"+str(round(predict2,0)))
 ```
 
 ## Output:
-<img src="https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/e6588547-a95c-4154-b83c-ffdd4ba71bfc" alt="alt text" width="200" height="200">
+<img src="https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/e6588547-a95c-4154-b83c-ffdd4ba71bfc" alt="alt text" width="200" height="200"><br>
 
-![Screenshot (20)](https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/960aa6ee-4cad-47a7-9e99-e563d32ddff2)
-<img src="https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/a155b2f5-15c1-4d6f-a769-4b29a7f5f1f4" alt="alt text" width="200" height="200">
+![Screenshot (20)](https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/960aa6ee-4cad-47a7-9e99-e563d32ddff2)<br>
 
-<img src="https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/87342bdf-4cbd-4b2a-8c5e-b14004afc0cc" alt="alt text" width="200" height="200">
-![Screenshot (23)](https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/26425a72-4165-4be5-9bcf-61757ec13007)
-![Screenshot (24)](https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/1e6efc7c-75aa-47ea-a04e-e5a7701ba34a)
+<img src="https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/a155b2f5-15c1-4d6f-a769-4b29a7f5f1f4" alt="alt text" width="200" height="200"><br>
+
+<img src="https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/87342bdf-4cbd-4b2a-8c5e-b14004afc0cc" alt="alt text" width="200" height="200"><br>
+
+![Screenshot (23)](https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/26425a72-4165-4be5-9bcf-61757ec13007)<br>
+
+![Screenshot (24)](https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/1e6efc7c-75aa-47ea-a04e-e5a7701ba34a)<br>
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
