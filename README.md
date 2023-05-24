@@ -96,7 +96,7 @@ print("For population = 70,000,we predict a profit of $"+str(round(predict2,0)))
 ```
 
 ## Output:
-<img src="https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/e6588547-a95c-4154-b83c-ffdd4ba71bfc"><alt
+<img src="https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/e6588547-a95c-4154-b83c-ffdd4ba71bfc" alt="alt text width="200" height="200">
 
 ![Screenshot (20)](https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/960aa6ee-4cad-47a7-9e99-e563d32ddff2)
 ![Screenshot (21)](https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/a155b2f5-15c1-4d6f-a769-4b29a7f5f1f4)
