@@ -96,17 +96,20 @@ print("For population = 70,000,we predict a profit of $"+str(round(predict2,0)))
 ```
 
 ## Output:
+1. Profit Prediction graph<br>
 <img src="https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/e6588547-a95c-4154-b83c-ffdd4ba71bfc" alt="alt text" width="200" height="200"><br>
-
+2.Compute Cost Value<br>
 ![Screenshot (20)](https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/960aa6ee-4cad-47a7-9e99-e563d32ddff2)<br>
-
+3.h(x) Value<br>
 <img src="https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/a155b2f5-15c1-4d6f-a769-4b29a7f5f1f4" alt="alt text" width="200" height="200"><br>
-
+4.Cost function using Gradient Descent Graph<br>
 <img src="https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/87342bdf-4cbd-4b2a-8c5e-b14004afc0cc" alt="alt text" width="200" height="200"><br>
-
+5.Profit Prediction Graph<br>
 ![Screenshot (23)](https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/26425a72-4165-4be5-9bcf-61757ec13007)<br>
-
-![Screenshot (24)](https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/1e6efc7c-75aa-47ea-a04e-e5a7701ba34a)<br>
+6.Profit for the Population 35,000<br>
+![Screenshot (24)](https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/bbd8be80-2f8b-4373-92f3-4a5bf39c63f9)<br>
+7.Profit for the Population 70,000<br>
+![Screenshot (24)](https://github.com/Username24112002/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/104640337/dc3843ff-b2ef-4adb-8aa9-e795b56c775a)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
